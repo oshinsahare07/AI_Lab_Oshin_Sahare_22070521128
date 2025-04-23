@@ -1,7 +1,7 @@
 # 🧠 Artificial Intelligence Lab Portfolio
 
-**Name:** Sparsh Maske 
-**PRN:** 22070521119  
+**Name:** Oshin Sahare
+**PRN:** 22070521128 
 **Institution:** Symbiosis Institute of Technology
 **Course:** Artificial Intelligence Lab
 
